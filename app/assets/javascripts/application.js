@@ -11,7 +11,7 @@
 // about supported directives.
 //
 //= require jquery
-//= require foojs-rails
+//= require basicgem_js
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
